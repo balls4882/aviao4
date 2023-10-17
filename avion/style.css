@@ -1,0 +1,36 @@
+.te1 {
+ position: relative;
+ left: 38em;
+ top: -3.7em;
+}
+.te2 {
+ position: relative;
+ left: 40em;
+ font-size: 19px;
+ top: -5.6em;
+}
+.te3 {
+    position: relative;
+ left: 32em;
+ font-size: 30px;
+ top: -5.8em;
+}
+.te4 {
+ position: relative;
+ top: -8em;
+}
+.te5 {
+    position: relative;
+    font-size: 30px;
+    top: -4.3em;
+}
+.go {
+    position: relative;
+    top: -8em;
+    width: 30px;
+}
+.log{
+    position: relative;
+    left: 22cm;
+    top: 10mm;
+}
